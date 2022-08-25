@@ -1,4 +1,7 @@
 # 黒猫ちゃんbot
+新しいバージョンを公開しました<br>
+https://github.com/KuronekoServer/kuronekobot-3.0
+
 .envを作って起動してね
 ```
 DISCORD_TOKEN=Botのトークン
